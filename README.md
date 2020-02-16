@@ -6,7 +6,7 @@ Electron / React / Redux boilerplate forked from [electron-react-redux-boilerpla
 
 Clone the repository
 ```bash
-git clone --depth=1 git@github.com:darwev0/electron-react-starter.git
+git clone --depth=1 https://github.com/darwev0/electron-react-starter.git
 ```
 
 Install dependencies
